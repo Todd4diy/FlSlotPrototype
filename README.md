@@ -5,7 +5,7 @@
 2. 沒做滑鼠事件，按鍵盤空白鍵啟動
 3. 沒有設定贏分，只有 Spin 功能
 
-[連結](https://todd4diy.github.io/FlSlotPrototype/)
+連結:[https://todd4diy.github.io/FlSlotPrototype/](https://todd4diy.github.io/FlSlotPrototype/)
 
 ## 轉至說明
 > 雖然 Flash Player 死透了。
